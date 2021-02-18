@@ -1,2 +1,2 @@
-# todo_list
+# TODO list
 TODO list project
